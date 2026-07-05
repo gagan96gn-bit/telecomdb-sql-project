@@ -1,1 +1,0 @@
-# telecomdb-sql-project
